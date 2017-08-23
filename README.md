@@ -1,8 +1,8 @@
 # ReactCRUDApplication-war
-Spring boot backend with jpa and devtools
+> Spring boot backend with jpa and devtools
 
-Steps to use the code : 
+**_Steps to use the code : _**
 
-Step -1 : Make a maven project, replace the pom.xml with the project's pom
-Step -2 : Replace the src folder in the project Structure, with the given one.
-Step -3 : Build the project, and RUN it. :)
+`Step - 1` : Make a maven project, replace the pom.xml with the project's pom <br/>
+`Step - 2` : Replace the src folder in the project Structure, with the given one. <br/>
+`Step - 3` : Build the project, and RUN it. :smile:
